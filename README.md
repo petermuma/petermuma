@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @petermuma
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning Python language
-- 💞️ I’m looking to collaborate on Python/Django related projects
+- 🌱 I’m currently learning & Working With PHP Laravel 
+- 💞️ I’m looking to collaborate on PHP Laravel related projects
 - 📫 How to reach me: Email: petermuma04@gmail.com..
 
 <!---
